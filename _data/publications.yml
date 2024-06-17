@@ -1,15 +1,5 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     conference_short: CVPR
@@ -20,3 +10,20 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
+
+
+  - title: "Talaria: Interactively Optimizing Machine Learning Models for Efficient Inference"
+    authors: F. Hohman, C. Wang, J. Lee, J. Görtler, D. Moritz, J. P. Bigham, Z. Ren, C. Foret, Q. Shan, <strong>X. Zhang</strong>
+    conference: CHI 2024
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    page: https://machinelearning.apple.com/research/talaria
+    notes: Best Paper Nominee
+    image: ./assets/img/teaser_example.png
+  
+  - title: "Towards Automated Accessibility Report Generation for Mobile Apps"
+    authors: A. Swearngin, J. Wu, <strong>X. Zhang</strong>, T. Barik, J. Nichols
+    conference: TOCHI 2024
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    image: ./assets/img/teaser_example.png
+
+  
