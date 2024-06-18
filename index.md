@@ -4,20 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a hands‐on and technical engineering leader (9 direct reports) at Apple, passionate about building **user‐friendly developer tools** for ML engineers to boost their productivity. **Built tools that are critical for the launch of Apple Intelligence and Vision Pro**. Prior to Apple, I receieved CS PhD from U of Washington and interned at Google Research and MSR.
 
 ## Research Interests
+- **ML Developer Tools**, Model Optimization, UI Accessibility, HCI.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+## Key Projects:
+- **Auto-Opt Pipeline:** ML infra to optimize all on-device Apple Intelligence LLMs.
+- **Talaria:** Developer tool to enable Vision Pro ML models to run in low latency.
+- **Screen Recognition:** Accessibility service to support 20M+ blind people’s daily life.
+- **2 Best Papers, 3 Best Paper nominees, 5 Patents.**
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}

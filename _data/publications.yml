@@ -15,15 +15,54 @@ main:
   - title: "Talaria: Interactively Optimizing Machine Learning Models for Efficient Inference"
     authors: F. Hohman, C. Wang, J. Lee, J. Görtler, D. Moritz, J. P. Bigham, Z. Ren, C. Foret, Q. Shan, <strong>X. Zhang</strong>
     conference: CHI 2024
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    page: https://machinelearning.apple.com/research/talaria
-    notes: Best Paper Nominee
-    image: ./assets/img/teaser_example.png
-  
-  - title: "Towards Automated Accessibility Report Generation for Mobile Apps"
-    authors: A. Swearngin, J. Wu, <strong>X. Zhang</strong>, T. Barik, J. Nichols
-    conference: TOCHI 2024
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://arxiv.org/pdf/2404.03085
+    video: https://machinelearning.apple.com/research/talaria
+    notes: Best Paper Nominee, Critical for Apple Intelligence and Vision Pro ML models
     image: ./assets/img/teaser_example.png
 
+  - title: "Towards Complete Icon Labeling in Mobile Applications"
+    authors: J. Chen, A. Swearngin, J. Wu, T. Barik, J. Nichols, <strong>X. Zhang</strong>
+    conference: CHI 2022
+    pdf: https://docs-assets.developer.apple.com/ml-research/papers/icon-labelling-mobile-apps-chi-22.pdf
+    page: https://machinelearning.apple.com/research/icon-labelling
+    notes: Shipped in iOS
+    image: ./assets/img/teaser_example.png
+    
+  - title: "Screen Recognition: Creating Accessibility Metadata for Mobile Apps from Pixels"
+    authors: <strong>X. Zhang</strong>, L. de Greef, A. Swearngin, S. White, K. Murray, L. Yu, Q. Shan, J. Nichols, J. Wu, C. Fleizach, A. Everitt, J. P. Bigham
+    conference: CHI 2021
+    pdf: https://docs-assets.developer.apple.com/ml-research/papers/screen-recognition-chi-2021.pdf
+    page: https://machinelearning.apple.com/research/creating-accessibility-metadata
+    video: https://www.youtube.com/watch?v=Z0pv0ZqFnC0
+    notes: Best Paper; Shipped in iOS
+    image: ./assets/img/teaser_example.png
+
+  - title: "When Can Accessibility Help? Exploration of Accessibility Feature Recommendation on Mobile Devices"
+    authors: J. Wu, G. Reyes, S. White, <strong>X. Zhang</strong>, J. P. Bigham
+    conference: W4A 2021
+    pdf: https://arxiv.org/pdf/2105.01734
+    page: https://machinelearning.apple.com/research/recommending-accessibility
+    notes: Best Paper
+    image: ./assets/img/teaser_example.png
+
+  - title: "Examining Image-Based Button Labeling for Accessibility in Apps through Large-Scale Analysis"
+    authors: A. Ross, <strong>X. Zhang</strong>, J. Fogarty, J. O. Wobbrock
+    conference: ASSETS 2018
+    pdf: https://faculty.washington.edu/wobbrock/pubs/assets-18.01.pdf
+    notes: Best Paper Nominee
+    image: ./assets/img/teaser_example.png
+ 
+  - title: "Interaction Proxies for Runtime Repair and Enhancement of Mobile Application Accessibility"
+    authors: <strong>X. Zhang</strong>, A. Ross, A. Caspi, J. Fogarty, J. O. Wobbrock
+    conference: CHI 2017
+    pdf: https://faculty.washington.edu/wobbrock/pubs/chi-17.03.pdf
+    video: https://www.youtube.com/watch?v=v15FfDAsf04
+    image: ./assets/img/teaser_example.png
+  
+  - title: "Smartphone-Based Eye Gesture Communication for People with Motor Disabilities"
+    authors: <strong>X. Zhang</strong>, H. Kulkarni, M. R. Morris
+    conference: CHI 2017
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    video: https://www.youtube.com/watch?v=Nffiaaw9PvQ
+    image: ./assets/img/teaser_example.png
   
