@@ -1,7 +1,8 @@
+<br>
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
 
 <div class="publications">
-Please see full publication list (25+) in <a href="https://scholar.google.com/citations?user=8qtpdWAAAAAJ">Google Scholar</a>
+Please see <b>full publication list (25+)</b> in <a href="https://scholar.google.com/citations?user=8qtpdWAAAAAJ">Google Scholar</a>
 <br><br>
 
 <ol class="bibliography">
