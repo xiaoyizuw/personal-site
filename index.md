@@ -11,7 +11,7 @@ Research Interests: **ML Developer Tools**, ML Model Optimization, UI Accessibil
 <br>
 
 ## Key Projects:
-- **Auto-OPT Pipeline:** ML infra to optimize all on-device Apple Intelligence LLMs.
+- **Auto-OPT:** ML infra to optimize all on-device Apple Intelligence LLMs.
 - **Talaria:** Developer tool to enable Vision Pro ML models to run in low latency.
 - **Screen Recognition:** Accessibility service to support 20M+ blind people’s daily life.
 - **2 Best Papers, 3 Best Paper nominees, 5 Patents.**
