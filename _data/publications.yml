@@ -1,24 +1,12 @@
 main:
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
-
-
   - title: "Talaria: Interactively Optimizing Machine Learning Models for Efficient Inference"
     authors: F. Hohman, C. Wang, J. Lee, J. Görtler, D. Moritz, J. P. Bigham, Z. Ren, C. Foret, Q. Shan, <strong>X. Zhang</strong>
     conference: CHI 2024
     pdf: https://arxiv.org/pdf/2404.03085
     video: https://machinelearning.apple.com/research/talaria
-    notes: Best Paper Nominee, Critical for Apple Intelligence and Vision Pro ML models
-    image: ./assets/img/teaser_example.png
+    notes: Best Paper Nominee, Critical for Apple Intelligence and Vision Pro models
+    image: ./assets/img/talaria.png
 
   - title: "Towards Complete Icon Labeling in Mobile Applications"
     authors: J. Chen, A. Swearngin, J. Wu, T. Barik, J. Nichols, <strong>X. Zhang</strong>
