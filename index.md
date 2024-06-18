@@ -15,7 +15,7 @@ Research Interests: **ML Developer Tools**, ML Model Optimization, UI Accessibil
 ## Key Projects:
 - **Auto-OPT:** ML infra to optimize all on-device Apple Intelligence LLMs.
 - **Talaria:** Developer tool to enable Vision Pro ML models to run in low latency.
-- **Screen Recognition:** The first on-device ML model to recognize and announce UI elements in iOS apps, benefiting 20M+ blind users.
+- **Screen Recognition:** The first on-device ML model to recognize iOS App UI, benefiting 20M+ blind users.
 - **2 Best Papers, 3 Best Paper nominees, 5 Patents.**
 
 {% include_relative _includes/publications.md %}
