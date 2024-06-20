@@ -1,32 +1,32 @@
 main:
 
   - title: "Talaria: Interactively Optimizing Machine Learning Models for Efficient Inference"
-    authors: F. Hohman, C. Wang, J. Lee, J. Görtler, D. Moritz, J. P. Bigham, Z. Ren, C. Foret, Q. Shan, <strong>X. Zhang</strong>
+    authors: Fred Hohman, Chaoqun Wang, Jinmook Lee, Jochen Görtler, Dominik Moritz, Jeffrey P. Bigham, Zhile Ren, Cecile Foret, Qi Shan, <strong>Xiaoyi Zhang</strong>
     conference: CHI 2024
     pdf: https://arxiv.org/pdf/2404.03085
     video: https://machinelearning.apple.com/research/talaria
-    notes: Best Paper Nominee, Critical for Apple Intelligence and Vision Pro models
+    notes: Best Paper Nominee; Critical for Apple Intelligence and Vision Pro models
     image: ./assets/img/talaria.png
 
   - title: "Towards Complete Icon Labeling in Mobile Applications"
-    authors: J. Chen, A. Swearngin, J. Wu, T. Barik, J. Nichols, <strong>X. Zhang</strong>
+    authors: Jieshan Chen, Amanda Swearngin, Jason Wu, Titus Barik, Jeffrey Nichols, <strong>Xiaoyi Zhang</strong>
     conference: CHI 2022
     pdf: https://docs-assets.developer.apple.com/ml-research/papers/icon-labelling-mobile-apps-chi-22.pdf
     page: https://machinelearning.apple.com/research/icon-labelling
-    notes: Shipped in iOS
+    notes: Available in iOS
     image: ./assets/img/teaser_example.png
     
   - title: "Screen Recognition: Creating Accessibility Metadata for Mobile Apps from Pixels"
-    authors: <strong>X. Zhang</strong>, L. de Greef, A. Swearngin, S. White, K. Murray, L. Yu, Q. Shan, J. Nichols, J. Wu, C. Fleizach, A. Everitt, J. P. Bigham
+    authors: <strong>Xiaoyi Zhang</strong>, Lilian de Greef, Amanda Swearngin, Samuel White, Kyle Murray, Lisa Yu, Qi Shan, Jeffrey Nichols, Jason Wu, Chris Fleizach, Aaron Everitt, Jeffrey P Bigham
     conference: CHI 2021
     pdf: https://docs-assets.developer.apple.com/ml-research/papers/screen-recognition-chi-2021.pdf
     page: https://machinelearning.apple.com/research/creating-accessibility-metadata
     video: https://www.youtube.com/watch?v=Z0pv0ZqFnC0
-    notes: Best Paper; Shipped in iOS
+    notes: Best Paper; Available in iOS
     image: ./assets/img/teaser_example.png
 
   - title: "When Can Accessibility Help? Exploration of Accessibility Feature Recommendation on Mobile Devices"
-    authors: J. Wu, G. Reyes, S. White, <strong>X. Zhang</strong>, J. P. Bigham
+    authors: Jason Wu, Gabriel Reyes, Sam C White, <strong>Xiaoyi Zhang</strong>, Jeffrey P Bigham
     conference: W4A 2021
     pdf: https://arxiv.org/pdf/2105.01734
     page: https://machinelearning.apple.com/research/recommending-accessibility
@@ -34,23 +34,32 @@ main:
     image: ./assets/img/teaser_example.png
 
   - title: "Examining Image-Based Button Labeling for Accessibility in Apps through Large-Scale Analysis"
-    authors: A. Ross, <strong>X. Zhang</strong>, J. Fogarty, J. O. Wobbrock
+    authors: Anne Spencer Ross, <strong>Xiaoyi Zhang</strong>, James Fogarty, Jacob O Wobbrock
     conference: ASSETS 2018
     pdf: https://faculty.washington.edu/wobbrock/pubs/assets-18.01.pdf
     notes: Best Paper Nominee
     image: ./assets/img/teaser_example.png
- 
+  
+  - title: "Epidemiology as a Framework for Large-scale Mobile Application Accessibility Assessment"
+    authors: Anne Spencer Ross, <strong>Xiaoyi Zhang</strong>, James Fogarty, Jacob O Wobbrock
+    conference: ASSETS 2017
+    pdf: https://faculty.washington.edu/wobbrock/pubs/assets-17.pdf
+    notes: Best Paper Nominee
+    image: ./assets/img/teaser_example.png
+   
   - title: "Interaction Proxies for Runtime Repair and Enhancement of Mobile Application Accessibility"
-    authors: <strong>X. Zhang</strong>, A. Ross, A. Caspi, J. Fogarty, J. O. Wobbrock
+    authors: <strong>Xiaoyi Zhang</strong>, Anne Spencer Ross, Anat Caspi, James Fogarty, Jacob O Wobbrock
     conference: CHI 2017
     pdf: https://faculty.washington.edu/wobbrock/pubs/chi-17.03.pdf
     video: https://www.youtube.com/watch?v=v15FfDAsf04
+    notes: Foundation Work for Screen Recognition
     image: ./assets/img/teaser_example.png
   
   - title: "Smartphone-Based Eye Gesture Communication for People with Motor Disabilities"
-    authors: <strong>X. Zhang</strong>, H. Kulkarni, M. R. Morris
+    authors: <strong>Xiaoyi Zhang</strong>, Harish Kulkarni, Meredith Ringel Morris
     conference: CHI 2017
     pdf: https://www.microsoft.com/en-us/research/uploads/prod/2017/01/gazespeakUpdated.pdf
     video: https://www.youtube.com/watch?v=Nffiaaw9PvQ
+    notes: Patent <a href="https://patents.google.com/patent/US10353475B2/en" target="_blank">(Link)</a>
     image: ./assets/img/teaser_example.png
   
