@@ -5,7 +5,7 @@ main:
     conference: CHI 2024
     pdf: https://arxiv.org/pdf/2404.03085
     video: https://machinelearning.apple.com/research/talaria
-    notes: Best Paper Nominee; Critical for Apple Intelligence and Vision Pro models
+    notes: 🏅 Best Paper Nominee; Critical for Apple Intelligence and Vision Pro models
     image: ./assets/img/talaria.png
 
   - title: "Towards Complete Icon Labeling in Mobile Applications"
@@ -22,7 +22,7 @@ main:
     pdf: https://docs-assets.developer.apple.com/ml-research/papers/screen-recognition-chi-2021.pdf
     page: https://machinelearning.apple.com/research/creating-accessibility-metadata
     video: https://www.youtube.com/watch?v=Z0pv0ZqFnC0
-    notes: Best Paper; Available in iOS
+    notes: 🏆 Best Paper; Available in iOS
     image: ./assets/img/teaser_example.png
 
   - title: "When Can Accessibility Help? Exploration of Accessibility Feature Recommendation on Mobile Devices"
@@ -30,21 +30,21 @@ main:
     conference: W4A 2021
     pdf: https://arxiv.org/pdf/2105.01734
     page: https://machinelearning.apple.com/research/recommending-accessibility
-    notes: Best Paper
+    notes: 🏆 Best Paper
     image: ./assets/img/teaser_example.png
 
   - title: "Examining Image-Based Button Labeling for Accessibility in Apps through Large-Scale Analysis"
     authors: Anne Spencer Ross, <strong>Xiaoyi Zhang</strong>, James Fogarty, Jacob O Wobbrock
     conference: ASSETS 2018
     pdf: https://faculty.washington.edu/wobbrock/pubs/assets-18.01.pdf
-    notes: Best Paper Nominee
+    notes: 🏅 Best Paper Nominee
     image: ./assets/img/teaser_example.png
   
   - title: "Epidemiology as a Framework for Large-scale Mobile Application Accessibility Assessment"
     authors: Anne Spencer Ross, <strong>Xiaoyi Zhang</strong>, James Fogarty, Jacob O Wobbrock
     conference: ASSETS 2017
     pdf: https://faculty.washington.edu/wobbrock/pubs/assets-17.pdf
-    notes: Best Paper Nominee
+    notes: 🏅 Best Paper Nominee
     image: ./assets/img/teaser_example.png
    
   - title: "Interaction Proxies for Runtime Repair and Enhancement of Mobile Application Accessibility"
