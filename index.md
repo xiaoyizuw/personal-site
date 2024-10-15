@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Member of Technical Staff at Anthropic, focusing on HCI+AI research and product.
+I am currently a **Member of Technical Staff at Anthropic**, focusing on HCI+AI research and product.
 
 Before this, I was a **Staff Researcher & Manager** at Apple (2018-2024), passionate about building **user‐friendly developer tools for ML engineers** to boost their productivity. My team built ML infra and tools for model analysis, optimization, and testing, which is mission-critical for the launch of **Apple Intelligence** ([Research post, Optimization section](https://machinelearning.apple.com/research/introducing-apple-foundation-models)) and **Vision Pro** ([Paper](https://machinelearning.apple.com/research/talaria)).
 
