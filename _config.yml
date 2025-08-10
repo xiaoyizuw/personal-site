@@ -19,7 +19,8 @@ twitter: https://x.com/xiaoyiz_uw
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/profile.jpeg
+avatar: ./assets/img/avatar.jpg
+avatar2: ./assets/img/nvshen.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
